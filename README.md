@@ -1,15 +1,12 @@
-# BSc Wiki
+# Wiki for the BSc Creative Making: Experience and Physical Computing Unit at UAL's Creative Computing Institute
 
-# Wiki for the BSc Creative Making: Experience and Physical Computing Unit at UAL's [Creative Computing Institute](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/bsc-hons-creative-computing#course-summary)
-
----
-
-## Information
+# Information
 
 - Unit IU000111 : Creative Making: Experience and Physical Computing.
-- Lecturer: [Alice Stewart](http://alicestew.art/)
-- Moodle with Blackboard links and Panopto videos is [here](https://moodle.arts.ac.uk/course/view.php?id=48822)
-- [All term dates](https://www.arts.ac.uk/students/term-dates) for UAL
+- Moodle with Blackboard links and Panopto videos is [here](https://moodle.arts.ac.uk/course/view.php?id=48822).
+- Lecturer: [Alice Stewart](http://alicestew.art/).
+- Contact: [a.stewart@arts.ac.uk](mailto:a.stewart@arts.ac.uk) or on Slack.
+- [All term dates](https://www.arts.ac.uk/students/term-dates) for UAL.
 
 ## Introduction
 
@@ -40,11 +37,12 @@ In this unit you will be working with electricity and electrical components. Saf
 
 # Syllabus
 
----
-
 ## Week 1 - 24th February: Anatomy of a Physical Computing project
 
+The Moodle page for this week can be found [here](https://moodle.arts.ac.uk/course/view.php?id=48822#section-3).
+
 - Hour 1: **Introduction lecture:** In our first hour together, you will meet Alice, get to know the Unit's learning outcomes, syllabus and themes, and understand various making processes including what makes a physical computing project. Slides for reference.
-- Hour 2: **Workshop:** In groups, you will explore the Unit's themes, breaking them down together into technical (inputs/outputs) and theoretical elements (ideas and context), identifying the parts you find most intriguing. At the end of this workshop you should have the beginnings of an idea about what you would like to explore and set an intention for what you will write about for the first post of your Blog.
+- Hour 2: **Workshop:** In groups, you will explore the Unit's themes, breaking them down together into technical (inputs/outputs) and theoretical elements (ideas and context). The outcome of this workshop is to have an idea about what you would like to explore, and set an intention for what you will write about for the first post of your Blog.
 - Hour 3: **Watch/listen:** Use the [Moodle](https://moodle.arts.ac.uk/course/view.php?id=48822) to watch a prerecorded lecture on some of the different tools for researching and making physical computing projects. Slides for reference.
-- Homework: **Activity:** Create your Blog and write your first post! You will be using your Blog throughout this unit to document your research and process. Your first blog post should be reflecting on your thoughts the from the workshop. What themes within Making and Physical Computing are you most interested in? What existing projects are out there that relate? What technical approaches (eg. how to control light, fabricating with 3D printing, wearables etc) are most relevant?
+
+**Homework:** Create your Blog and write your first post! Your first blog post should be reflecting on your thoughts the from the workshop: What themes within Making and Physical Computing are you most interested in? What existing projects are out there that relate? What technical approaches (eg. how to control light, fabricating with 3D printing, wearables etc) are most relevant?
