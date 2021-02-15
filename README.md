@@ -1,4 +1,4 @@
-# Wiki for the BSc Creative Making: Experience and Physical Computing Unit at UAL's Creative Computing Institute
+# Wiki for the BSc Creative Making: Experience and Physical Computing Unit at UAL's Creative Computing Institute ✨
 
 # Information
 
